@@ -1,10 +1,8 @@
 # 🎯 Presentación Personal  
 
-
-| 👤 Nombre Completo  | 📸 *Jonathan Romano* | 
-|:--:|  
-|  📷 | ![Foto de Jonathan](https://github.com/pdepman/2025-tp0-presentacion-Jonathan-Romano/blob/main/Assets/foto.jpg) |  
- 
+| 👤 **Nombre Completo** | 📸 *Jonathan Romano* |  
+|:----------------------:|:-------------------:|  
+| ![Foto de Jonathan](https://github.com/pdepman/2025-tp0-presentacion-Jonathan-Romano/blob/main/Assets/foto.jpg) |  |  
 
 ---
 
