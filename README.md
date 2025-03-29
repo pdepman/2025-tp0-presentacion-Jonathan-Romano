@@ -2,7 +2,7 @@
 
 | 👤 **Nombre Completo** || ![Foto de Jonathan](https://github.com/pdepman/2025-tp0-presentacion-Jonathan-Romano/blob/main/Assets/foto.jpg) | |  
 |:----------------------:|:-------------------:|  
-|  📸 *Jonathan Romano* |  
+| | 📸 *Jonathan Romano*||  
 
 ---
 
