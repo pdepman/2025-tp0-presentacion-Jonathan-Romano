@@ -4,13 +4,13 @@
 **Juan Pérez**
 
 ## Foto Personal
-![Foto de Juan Pérez](foto.jpg)
+![Foto de Jonathan](https://github.com/pdepman/2025-tp0-presentacion-Jonathan-Romano/blob/main/Assets/foto.jpg)
 
 ## Legajo
-**12345**
+**215.575-8**
 
 ## Sobre Mí
-Soy un apasionado de la tecnología y el aprendizaje constante. Actualmente, me desempeño en el área de desarrollo de software, explorando nuevas herramientas y metodologías para mejorar la eficiencia y calidad del código.
+Soy un apasionado por la tecnologia, actualmente me encuentro aprendiendo Java, me encantan los videojuegos si no estoy estudiando o trabajando uso mi tiempo libre en eso.
 
 ## Algo Importante en el Mundo Hoy
-Vivimos en una era de cambios acelerados, donde la inteligencia artificial y la automatización están transformando la forma en que trabajamos y nos relacionamos. Es clave aprender a adaptarnos y a usar estas herramientas de manera ética y responsable.
+Argentina le gano 4-1 a brasil sin messi.
