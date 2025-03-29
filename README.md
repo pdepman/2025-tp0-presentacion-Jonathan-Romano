@@ -1,9 +1,9 @@
 # 🎯 Presentación Personal  
 
 ## 👤 Nombre Completo  
-| **Jonathan Romano** | ![Foto de Jonathan](https://github.com/pdepman/2025-tp0-presentacion-Jonathan-Romano/blob/main/Assets/foto.jpg) |
-|-------------|:----------------:|
-
+| ![Foto de Jonathan](https://github.com/pdepman/2025-tp0-presentacion-Jonathan-Romano/blob/main/Assets/foto.jpg) |
+|:--:|
+| 📸 *Jonathan Romano* |
 ## 🆔 Legajo  
 **215.575-8**  
 
